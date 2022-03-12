@@ -3,6 +3,12 @@
 ### Full-Stack Software Developer
 
 - Software Development student at Keyin College (Graduating April 2022)
+- Currently learning Three.js and Responsive Web Design
+- Passionate about writing clean code and beautiful websites
+
+### My Work
+
+[PowerPost]
 
 ### Connect with me:
 
@@ -25,6 +31,8 @@
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 
+<br />
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 <details>
@@ -35,3 +43,4 @@
 </details>
 
 [website]: https://www.tylerdowney.tech
+[powerpost]: https://powerpost.netlify.app
