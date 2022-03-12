@@ -8,7 +8,7 @@
 
 ### My Work
 
-[PowerPost]
+[PowerPost (Social Media App)]
 
 ### Connect with me:
 
@@ -33,8 +33,6 @@
 
 <br />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
-
 <details>
   <summary>:zap: GitHub Stats</summary>
 
@@ -43,4 +41,4 @@
 </details>
 
 [website]: https://www.tylerdowney.tech
-[powerpost]: https://powerpost.netlify.app
+[powerpost (social media app)]: https://powerpost.netlify.app
