@@ -12,7 +12,7 @@
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/tyler-downey-220007212/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/tyler-downey-220007212/#gh-dark-mode-only)
 
-<br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tylerdowney13)](https://github.com/tylerdowney13/github-readme-stats)
 
 <details>
   <summary>:zap: GitHub Stats</summary>
